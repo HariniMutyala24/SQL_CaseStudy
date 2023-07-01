@@ -1,6 +1,6 @@
 -- This file includes both Health Care and Library Management System Usecases
 
--- Usecase Domain: Health
+-- Usecase Domain: Health care
 
 -- Creating the Patient table
 CREATE TABLE Patient (
