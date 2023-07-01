@@ -58,7 +58,7 @@ Data backups will be taken regularly to ensure data availability in the event of
 
 An SQL database can be used to manage patient data and improve healthcare outcomes. The database can be designed to allow healthcare providers to access and update patient information in real-time. The database can also be designed to provide analytics on patient outcomes, which can be used to improve patient care. Data security measures must be implemented to ensure patient data is protected.
 
-## Use Case Domain: Library Management System
+# Use Case Domain: Library Management System
 
 The library management system is a domain that involves managing library resources such as books, journals, and magazines, as well as managing the borrowing and returning of these resources by library patrons. The primary use case of a library management system is to provide a centralized system to manage and organize the library's collection, as well as facilitate the  borrowing and returning of resources by library patrons.
 
